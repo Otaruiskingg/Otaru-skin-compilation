@@ -1,9 +1,9 @@
 # AntoN skin compilation
-Let me know if skins are missing!
+
 
 **Click on the skin name to download. If the download does not start or displays strange characters, press ctrl + S.**
 
-**Even if it says can't import the skins should work fine. If you're sure it doesn't work make sure you are on beta or cuttingedge. If you still can't get the skin to work mention me in twitch chat and explain the problem in detail.**
+**Let me know if skins are missing/Links doesn't work!**
 
 # Some of the skins im using might be private and is not listed here!
 
