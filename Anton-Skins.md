@@ -10,6 +10,9 @@
 # [Talala skin](http://puu.sh/lQWyE/c486d3e040.osk)
 ![](https://osu.ppy.sh/ss/4839059)
 
+# [Spare Skin](http://puu.sh/o20I5/cf981e2c06.osk)
+![](https://osu.ppy.sh/ss/4839854)
+
 # [Tokichii](http://puu.sh/n7M3Q/6249fe3d80.osk)
 ![](https://osu.ppy.sh/ss/4533649)
 
