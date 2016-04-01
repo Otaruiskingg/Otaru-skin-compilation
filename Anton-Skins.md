@@ -7,6 +7,9 @@
 
 # Some of the skins im using might be private and is not listed here!
 
+# [Talala skin](http://puu.sh/lQWyE/c486d3e040.osk)
+![](https://osu.ppy.sh/ss/4839059)
+
 # [Tokichii](http://puu.sh/n7M3Q/6249fe3d80.osk)
 ![](https://osu.ppy.sh/ss/4533649)
 
