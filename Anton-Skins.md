@@ -7,17 +7,17 @@
 
 # Some of the skins im using might be private and is not listed here!
 
-# [Talala skin](http://puu.sh/lQWyE/c486d3e040.osk)
+# [Talala](http://puu.sh/lQWyE/c486d3e040.osk)
 ![](https://osu.ppy.sh/ss/4839059)
 
-# [Spare Skin](http://puu.sh/o20I5/cf981e2c06.osk)
+# [Spare old](http://puu.sh/o20I5/cf981e2c06.osk)
 ![](https://osu.ppy.sh/ss/4839854)
 
-# [Tokichii](http://puu.sh/n7M3Q/6249fe3d80.osk)
+# [Tokichii Old](http://puu.sh/n7M3Q/6249fe3d80.osk)
 ![](https://osu.ppy.sh/ss/4533649)
 
-# [Cookiezi skin](http://puu.sh/n7MnA/a29cd086f7.osk)
-![](https://osu.ppy.sh/ss/4533680)
+# [Dustice](http://puu.sh/oprzc/ff8881a7d0.osk)
+![](https://osu.ppy.sh/ss/6409645)
 
 
 
