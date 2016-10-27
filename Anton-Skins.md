@@ -23,7 +23,7 @@
 ![](https://osu.ppy.sh/ss/6409810)
 
 # [Rohulk](https://puu.sh/qtUWV/0e1adfd55f.osk)
-![](https://puu.sh/rnpu5/711bb63a98.osk)
+![](http://puu.sh/rXQgk/9b554b366d.jpg)
 
 # [Talala](http://puu.sh/lQWyE/c486d3e040.osk)
 ![](https://osu.ppy.sh/ss/4839059)
